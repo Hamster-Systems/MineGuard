@@ -12,6 +12,21 @@ The website is **public**, but the **source code is private** for security and i
 
 ---
 
+## 🛣️ Roadmap (Overview)
+
+MineGuard is actively developed. Below is a quick overview.
+
+- ✔ CASE IDs implemented  
+- ✔ Moderator dashboard  
+- ✔ Notifications system  
+- ✔ Settings page  
+- ✔ Analytics (basic)
+
+📌 **View the full roadmap:**  
+➡️ [ROADMAP.md](./ROADMAP.md)
+
+---
+
 ## 📘 Overview
 
 MineGuard functions like a **case management system**, built for reporting Minecraft player behaviour issues such as cheating, griefing, scamming, and harassment.
